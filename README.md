@@ -1,1 +1,2 @@
-# SideProject_pandas
+# 某公司業務銷售之分析報告
+這是大二大數據分析課程中所做的Side Project，使用Python的Pandas套件分析公司業務銷售之各個面向，並利用Matplotlib視覺化工具觀察數據，也在最後撰寫了一份報告，針對該公司觀察到的問題進行分析，並提出相應的建議。
